@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ToolTipCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 1065307569
+    locked: 0
+  - name: Team
+    uniqueID: 2239131337
+    locked: 0
+  - name: MoveRange
+    uniqueID: 3722303771
+    locked: 0
+  - name: Selected
+    uniqueID: 2882379653
+    locked: 0
+  - name: SliDown-Wall
+    uniqueID: 1858719307
+    locked: 0
+  - name: Hori-Wall
+    uniqueID: 1708552293
+    locked: 0
+  - name: Unit
+    uniqueID: 3620386303
+    locked: 0
+  - name: SliUp-Wall
+    uniqueID: 3442016401
+    locked: 0

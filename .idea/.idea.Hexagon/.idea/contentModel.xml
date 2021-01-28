@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\legion\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\legion\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Hexagon.-760872789.00" t="ExcludeRecursive" />
+    <e p="E:\UnityProject\Hexagon\Hexagon" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="FXAA" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="FXAAEditor.cs" t="Include" />
+            </e>
+            <e p="FXAA.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Fxaa3.shader" t="Include" />
+            <e p="Fxaa3_9.cginc" t="Include" />
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Database" t="Include">
+            <e p="单位资源索引.txt" t="Include" />
+            <e p="地块资源索引.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Control" t="Include">
+            <e p="AIController.cs" t="Include" />
+            <e p="CameraControl.cs" t="Include" />
+            <e p="Controller.cs" t="Include" />
+            <e p="CursorControl.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+          </e>
+          <e p="Game" t="Include">
+            <e p="BeginGame.cs" t="Include" />
+            <e p="Game.cs" t="Include" />
+            <e p="GameEvent.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="GameState.cs" t="Include" />
+            <e p="Host.cs" t="Include" />
+            <e p="InputEvent.cs" t="Include" />
+            <e p="InputManager.cs" t="Include" />
+            <e p="Navigate.cs" t="Include" />
+            <e p="ResourcesPaths.cs" t="Include" />
+            <e p="TileSelectManager.cs" t="Include" />
+            <e p="Updater.cs" t="Include" />
+          </e>
+          <e p="InterfaceLib" t="Include">
+            <e p="IDatabaseReader.cs" t="Include" />
+          </e>
+          <e p="MainMenu" t="Include">
+            <e p="ButtonEvent.cs" t="Include" />
+          </e>
+          <e p="Map" t="Include">
+            <e p="MapManager.cs" t="Include" />
+            <e p="Plot.cs" t="Include" />
+            <e p="PlotSpritePathManager.cs" t="Include" />
+          </e>
+          <e p="MapEditor" t="Include">
+            <e p="EditorState.cs" t="Include" />
+            <e p="GridDrawer.cs" t="Include" />
+            <e p="GUIScripts" t="Include">
+              <e p="EscMenu_Window.cs" t="Include" />
+              <e p="LoadMap_Window.cs" t="Include" />
+              <e p="MakeCode_Window.cs" t="Include" />
+              <e p="MapEditorMenu_Manager.cs" t="Include" />
+              <e p="MessageBox_Window.cs" t="Include" />
+              <e p="NewMap_Window.cs" t="Include" />
+              <e p="Window.cs" t="Include" />
+            </e>
+            <e p="Map.cs" t="Include" />
+            <e p="MapEditorItem.cs" t="Include" />
+            <e p="MapEditorManager.cs" t="Include" />
+            <e p="MapEditorPlot.cs" t="Include" />
+            <e p="MapEditorPlotManager.cs" t="Include" />
+            <e p="MapEditorSpawnPoint.cs" t="Include" />
+            <e p="MapListManager.cs" t="Include" />
+            <e p="MapManager.cs" t="Include" />
+          </e>
+          <e p="Team" t="Include">
+            <e p="Team.cs" t="Include" />
+            <e p="TeamManager.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="EndRound_Button.cs" t="Include" />
+            <e p="ToolTipControl.cs" t="Include" />
+            <e p="WindowsManager" t="Include">
+              <e p="BindableCollection.cs" t="Include" />
+              <e p="BindableProperty.cs" t="Include" />
+              <e p="GUIBase.cs" t="Include" />
+              <e p="IView.cs" t="Include" />
+              <e p="IWindow.cs" t="Include" />
+              <e p="PropertyBinder.cs" t="Include" />
+              <e p="ViewModel.cs" t="Include" />
+              <e p="WindowBase.cs" t="Include" />
+              <e p="WindowManager.cs" t="Include" />
+              <e p="WindowScripts" t="Include">
+                <e p="CreateGame" t="Include">
+                  <e p="CreateGame.cs" t="Include" />
+                  <e p="CreateGame_ViewModel.cs" t="Include" />
+                </e>
+                <e p="CurrentTeam" t="Include">
+                  <e p="CurrentTeam.cs" t="Include" />
+                  <e p="CurrentTeam_ViewModel.cs" t="Include" />
+                </e>
+                <e p="Cursor" t="Include">
+                  <e p="Cursor.cs" t="Include" />
+                  <e p="Cursor_ViewModel.cs" t="Include" />
+                </e>
+                <e p="EndRound" t="Include">
+                  <e p="EndRound.cs" t="Include" />
+                  <e p="EndRound_ViewModel.cs" t="Include" />
+                </e>
+                <e p="SelectCursor" t="Include">
+                  <e p="SelectCursor.cs" t="Include" />
+                  <e p="SelectCursor_ViewModel.cs" t="Include" />
+                </e>
+                <e p="StatePanel" t="Include">
+                  <e p="ActionText.cs" t="Include" />
+                  <e p="HealthText.cs" t="Include" />
+                  <e p="StatePanel.cs" t="Include" />
+                  <e p="StatePanel_ViewModel.cs" t="Include" />
+                  <e p="StateText_ViewModel.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Unit" t="Include">
+            <e p="Components" t="Include">
+              <e p="Attacker.cs" t="Include" />
+              <e p="Connector.cs" t="Include" />
+              <e p="Detector.cs" t="Include" />
+              <e p="Movement.cs" t="Include" />
+              <e p="Spawner.cs" t="Include" />
+              <e p="UnitComponent.cs" t="Include" />
+            </e>
+            <e p="UnitBase.cs" t="Include" />
+            <e p="UnitFactory.cs" t="Include" />
+            <e p="UnitInterface" t="Include">
+              <e p="IAttacker.cs" t="Include" />
+            </e>
+            <e p="UnitManager.cs" t="Include" />
+            <e p="UnitNameTranslator.cs" t="Include" />
+            <e p="Units" t="Include">
+              <e p="Boor.cs" t="Include" />
+              <e p="Pioneer.cs" t="Include" />
+              <e p="Wall.cs" t="Include" />
+            </e>
+            <e p="UnitSpriteManager.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Hexagon.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
